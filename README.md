@@ -16,7 +16,7 @@ source activate tf
 pip install tensorflow
 
 # Clone this repository
-git clone git@github.com:jruizvar/jogos-data.git
+git clone https://github.com/jruizvar/jogos-data.git
 cd jogos-data
 ```
 
