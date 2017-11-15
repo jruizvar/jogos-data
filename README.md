@@ -23,7 +23,7 @@ cd jogos-data
 ## Your mission
 The directory [data](https://github.com/jruizvar/jogos-data/tree/master/data) contains 99 files corresponding to 99 football matches in a tournament confronting two teams.
 
-Each file consists of two columns and 90 rows, and they represent the goals scored in each minute of the game. For instance, the [line 11 in game 1](https://github.com/jruizvar/jogos-data/blob/master/data/jogo1.txt#L11) indicates that the second team scores one goal in that minute.
+Each file consists of two columns and 90 rows, and they represent the goals scored in each minute of the game. For instance, [this line](https://github.com/jruizvar/jogos-data/blob/master/data/jogo1.txt#L11) indicates that the second team scored one goal during the 11th minute of the game.
 
 Your mission is to find the final score for every match. Count the points obtained by each team along the tournament, and determine who is the champion.
 
