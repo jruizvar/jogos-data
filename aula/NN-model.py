@@ -1,5 +1,13 @@
 """
-    Create a model that learns to multiply by 7
+    Create a model that learns to multiply by 7.
+
+    The model in this example accomplishes the same 
+    as the function:
+
+    def multiply_by_seven(x):
+        w = 7.
+        y_pred = w * x
+        return y_pred
 """
 import numpy as np
 import tensorflow as tf
